@@ -1,0 +1,9 @@
+D:\delfosti\api\delfostiapi\delfostiservice\bin\Debug\delfostiservice.dll
+D:\delfosti\api\delfostiapi\delfostiservice\bin\Debug\delfostiservice.pdb
+D:\delfosti\api\delfostiapi\delfostiservice\bin\Debug\delfostidata.dll
+D:\delfosti\api\delfostiapi\delfostiservice\bin\Debug\delfostidata.pdb
+D:\delfosti\api\delfostiapi\delfostiservice\obj\Debug\delfostiservice.csproj.AssemblyReference.cache
+D:\delfosti\api\delfostiapi\delfostiservice\obj\Debug\delfostiservice.csproj.CoreCompileInputs.cache
+D:\delfosti\api\delfostiapi\delfostiservice\obj\Debug\delfostiservice.csproj.CopyComplete
+D:\delfosti\api\delfostiapi\delfostiservice\obj\Debug\delfostiservice.dll
+D:\delfosti\api\delfostiapi\delfostiservice\obj\Debug\delfostiservice.pdb
